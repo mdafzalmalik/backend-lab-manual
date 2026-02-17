@@ -1,0 +1,5 @@
+Commit Explanation
+
+A commit is a snapshot of the project at a specific time.
+
+This practical includes minimum five commits to understand version tracking.
