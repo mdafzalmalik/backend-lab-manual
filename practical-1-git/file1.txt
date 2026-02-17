@@ -1,0 +1,9 @@
+Practical 1 - Creating and Managing Repository with Git
+
+Name: Mohammad Afzal Malik
+Section: 3CB
+University Roll No: 2315510125
+Class Roll No: 32
+
+Objective:
+To understand Version Control System and basic Git operations.
