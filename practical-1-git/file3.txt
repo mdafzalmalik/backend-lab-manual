@@ -1,0 +1,7 @@
+Basic Git Commands Used
+
+git init  - Initialize repository
+git status - Check status
+git add . - Add files to staging
+git commit - Save changes
+git log - View commit history
