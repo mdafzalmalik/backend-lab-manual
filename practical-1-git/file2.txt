@@ -1,0 +1,10 @@
+About Version Control System (VCS)
+
+A Version Control System helps track changes in source code.
+
+Types of VCS:
+1. Local VCS
+2. Centralized VCS
+3. Distributed VCS
+
+Git is a Distributed Version Control System.
