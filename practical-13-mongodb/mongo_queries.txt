@@ -1,0 +1,17 @@
+use collegeDB
+
+db.students.insertOne({ name: "Afzal", course: "Backend Engineering", year: 3 })
+
+db.students.insertMany([
+{ name: "Rahul", course: "AI", year: 2 },
+{ name: "Neha", course: "Web Dev", year: 1 }
+])
+
+db.students.find()
+
+db.students.updateOne(
+{ name: "Afzal" },
+{ $set: { year: 4 } }
+)
+
+db.students.deleteOne({ name: "Neha" })
